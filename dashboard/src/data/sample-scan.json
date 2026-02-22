@@ -1,0 +1,332 @@
+{
+    "scan_id": "demo-scan-001",
+    "device_model": "Samsung Galaxy S23",
+    "android_version": "14",
+    "scan_timestamp": "2026-02-20T12:00:00Z",
+    "total_apps": 8,
+    "total_trackers": 27,
+    "total_dangerous_permissions": 42,
+    "apps": [
+        {
+            "package_name": "com.whatsapp",
+            "app_name": "WhatsApp",
+            "permissions": [
+                "android.permission.READ_CONTACTS",
+                "android.permission.CAMERA",
+                "android.permission.RECORD_AUDIO",
+                "android.permission.ACCESS_FINE_LOCATION",
+                "android.permission.READ_PHONE_STATE",
+                "android.permission.READ_EXTERNAL_STORAGE",
+                "android.permission.WRITE_EXTERNAL_STORAGE"
+            ],
+            "dangerous_permissions": [
+                "READ_CONTACTS",
+                "CAMERA",
+                "RECORD_AUDIO",
+                "ACCESS_FINE_LOCATION",
+                "READ_PHONE_STATE",
+                "READ_EXTERNAL_STORAGE"
+            ],
+            "trackers": [
+                {
+                    "name": "Facebook Analytics",
+                    "company": "Meta Platforms"
+                },
+                {
+                    "name": "Facebook Login",
+                    "company": "Meta Platforms"
+                },
+                {
+                    "name": "Facebook Share",
+                    "company": "Meta Platforms"
+                },
+                {
+                    "name": "Google Firebase Analytics",
+                    "company": "Alphabet Inc."
+                },
+                {
+                    "name": "Google CrashLytics",
+                    "company": "Alphabet Inc."
+                }
+            ],
+            "tracker_count": 5,
+            "dangerous_permission_count": 6,
+            "risk_score": 58
+        },
+        {
+            "package_name": "com.instagram.android",
+            "app_name": "Instagram",
+            "permissions": [
+                "android.permission.READ_CONTACTS",
+                "android.permission.CAMERA",
+                "android.permission.RECORD_AUDIO",
+                "android.permission.ACCESS_FINE_LOCATION",
+                "android.permission.READ_PHONE_STATE",
+                "android.permission.READ_EXTERNAL_STORAGE"
+            ],
+            "dangerous_permissions": [
+                "READ_CONTACTS",
+                "CAMERA",
+                "RECORD_AUDIO",
+                "ACCESS_FINE_LOCATION",
+                "READ_PHONE_STATE",
+                "READ_EXTERNAL_STORAGE"
+            ],
+            "trackers": [
+                {
+                    "name": "Facebook Analytics",
+                    "company": "Meta Platforms"
+                },
+                {
+                    "name": "Facebook Login",
+                    "company": "Meta Platforms"
+                },
+                {
+                    "name": "Facebook Ads",
+                    "company": "Meta Platforms"
+                },
+                {
+                    "name": "Google Firebase Analytics",
+                    "company": "Alphabet Inc."
+                },
+                {
+                    "name": "Google CrashLytics",
+                    "company": "Alphabet Inc."
+                },
+                {
+                    "name": "Branch",
+                    "company": "Branch Metrics"
+                }
+            ],
+            "tracker_count": 6,
+            "dangerous_permission_count": 6,
+            "risk_score": 64
+        },
+        {
+            "package_name": "com.zhiliaoapp.musically",
+            "app_name": "TikTok",
+            "permissions": [
+                "android.permission.READ_CONTACTS",
+                "android.permission.CAMERA",
+                "android.permission.RECORD_AUDIO",
+                "android.permission.ACCESS_FINE_LOCATION",
+                "android.permission.READ_PHONE_STATE",
+                "android.permission.READ_EXTERNAL_STORAGE",
+                "android.permission.BODY_SENSORS"
+            ],
+            "dangerous_permissions": [
+                "READ_CONTACTS",
+                "CAMERA",
+                "RECORD_AUDIO",
+                "ACCESS_FINE_LOCATION",
+                "READ_PHONE_STATE",
+                "READ_EXTERNAL_STORAGE",
+                "BODY_SENSORS"
+            ],
+            "trackers": [
+                {
+                    "name": "Facebook Login",
+                    "company": "Meta Platforms"
+                },
+                {
+                    "name": "Facebook Share",
+                    "company": "Meta Platforms"
+                },
+                {
+                    "name": "Google Firebase Analytics",
+                    "company": "Alphabet Inc."
+                },
+                {
+                    "name": "AppsFlyer",
+                    "company": "AppsFlyer"
+                },
+                {
+                    "name": "Pangle (ByteDance)",
+                    "company": "ByteDance"
+                }
+            ],
+            "tracker_count": 5,
+            "dangerous_permission_count": 7,
+            "risk_score": 68
+        },
+        {
+            "package_name": "com.truecaller",
+            "app_name": "Truecaller",
+            "permissions": [
+                "android.permission.READ_CONTACTS",
+                "android.permission.READ_CALL_LOG",
+                "android.permission.READ_PHONE_STATE",
+                "android.permission.ACCESS_FINE_LOCATION",
+                "android.permission.CAMERA"
+            ],
+            "dangerous_permissions": [
+                "READ_CONTACTS",
+                "READ_CALL_LOG",
+                "READ_PHONE_STATE",
+                "ACCESS_FINE_LOCATION",
+                "CAMERA"
+            ],
+            "trackers": [
+                {
+                    "name": "Google Firebase Analytics",
+                    "company": "Alphabet Inc."
+                },
+                {
+                    "name": "Google CrashLytics",
+                    "company": "Alphabet Inc."
+                },
+                {
+                    "name": "CleverTap",
+                    "company": "CleverTap"
+                },
+                {
+                    "name": "InMobi",
+                    "company": "InMobi"
+                }
+            ],
+            "tracker_count": 4,
+            "dangerous_permission_count": 5,
+            "risk_score": 52
+        },
+        {
+            "package_name": "com.flipkart.android",
+            "app_name": "Flipkart",
+            "permissions": [
+                "android.permission.ACCESS_FINE_LOCATION",
+                "android.permission.CAMERA",
+                "android.permission.READ_PHONE_STATE",
+                "android.permission.READ_CONTACTS"
+            ],
+            "dangerous_permissions": [
+                "ACCESS_FINE_LOCATION",
+                "CAMERA",
+                "READ_PHONE_STATE",
+                "READ_CONTACTS"
+            ],
+            "trackers": [
+                {
+                    "name": "Google Firebase Analytics",
+                    "company": "Alphabet Inc."
+                },
+                {
+                    "name": "Facebook Analytics",
+                    "company": "Meta Platforms"
+                },
+                {
+                    "name": "CleverTap",
+                    "company": "CleverTap"
+                },
+                {
+                    "name": "Criteo",
+                    "company": "Criteo"
+                }
+            ],
+            "tracker_count": 4,
+            "dangerous_permission_count": 4,
+            "risk_score": 40
+        },
+        {
+            "package_name": "com.google.android.youtube",
+            "app_name": "YouTube",
+            "permissions": [
+                "android.permission.CAMERA",
+                "android.permission.RECORD_AUDIO",
+                "android.permission.READ_CONTACTS",
+                "android.permission.ACCESS_FINE_LOCATION"
+            ],
+            "dangerous_permissions": [
+                "CAMERA",
+                "RECORD_AUDIO",
+                "READ_CONTACTS",
+                "ACCESS_FINE_LOCATION"
+            ],
+            "trackers": [
+                {
+                    "name": "Google Ads",
+                    "company": "Alphabet Inc."
+                },
+                {
+                    "name": "Google Analytics",
+                    "company": "Alphabet Inc."
+                }
+            ],
+            "tracker_count": 2,
+            "dangerous_permission_count": 4,
+            "risk_score": 24
+        },
+        {
+            "package_name": "com.spotify.music",
+            "app_name": "Spotify",
+            "permissions": [
+                "android.permission.ACCESS_FINE_LOCATION",
+                "android.permission.CAMERA",
+                "android.permission.READ_EXTERNAL_STORAGE"
+            ],
+            "dangerous_permissions": [
+                "ACCESS_FINE_LOCATION",
+                "CAMERA",
+                "READ_EXTERNAL_STORAGE"
+            ],
+            "trackers": [
+                {
+                    "name": "Google Firebase Analytics",
+                    "company": "Alphabet Inc."
+                },
+                {
+                    "name": "Adjust",
+                    "company": "AppLovin"
+                },
+                {
+                    "name": "comScore",
+                    "company": "comScore"
+                }
+            ],
+            "tracker_count": 3,
+            "dangerous_permission_count": 3,
+            "risk_score": 18
+        },
+        {
+            "package_name": "com.king.candycrushsaga",
+            "app_name": "Candy Crush Saga",
+            "permissions": [
+                "android.permission.ACCESS_FINE_LOCATION",
+                "android.permission.READ_PHONE_STATE",
+                "android.permission.READ_EXTERNAL_STORAGE"
+            ],
+            "dangerous_permissions": [
+                "ACCESS_FINE_LOCATION",
+                "READ_PHONE_STATE",
+                "READ_EXTERNAL_STORAGE"
+            ],
+            "trackers": [
+                {
+                    "name": "Facebook Analytics",
+                    "company": "Meta Platforms"
+                },
+                {
+                    "name": "Google Firebase Analytics",
+                    "company": "Alphabet Inc."
+                },
+                {
+                    "name": "Unity Ads",
+                    "company": "Unity Technologies"
+                },
+                {
+                    "name": "AppLovin MAX",
+                    "company": "AppLovin"
+                },
+                {
+                    "name": "ironSource",
+                    "company": "Unity Technologies"
+                },
+                {
+                    "name": "AdColony",
+                    "company": "Digital Turbine"
+                }
+            ],
+            "tracker_count": 6,
+            "dangerous_permission_count": 3,
+            "risk_score": 42
+        }
+    ]
+}

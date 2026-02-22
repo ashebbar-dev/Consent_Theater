@@ -1,0 +1,250 @@
+[
+    {
+        "name": "Oracle Data Cloud (BlueKai)",
+        "dpo_email": "secalert_us@oracle.com",
+        "deletion_url": "https://www.oracle.com/legal/privacy/marketing-cloud-data-cloud-privacy-policy.html#opt-out",
+        "jurisdiction": "GDPR, CCPA, DPDPA",
+        "typical_response_days": 30,
+        "category": "data_management_platform"
+    },
+    {
+        "name": "Acxiom (LiveRamp)",
+        "dpo_email": "privacy@liveramp.com",
+        "deletion_url": "https://liveramp.com/opt_out/",
+        "jurisdiction": "GDPR, CCPA, DPDPA",
+        "typical_response_days": 30,
+        "category": "data_broker"
+    },
+    {
+        "name": "Experian",
+        "dpo_email": "dpo@experian.com",
+        "deletion_url": "https://www.experian.com/privacy/opting-out",
+        "jurisdiction": "GDPR, CCPA, DPDPA",
+        "typical_response_days": 45,
+        "category": "credit_and_data"
+    },
+    {
+        "name": "Equifax",
+        "dpo_email": "privacy@equifax.com",
+        "deletion_url": "https://www.equifax.com/personal/help/manage-personal-info/",
+        "jurisdiction": "GDPR, CCPA",
+        "typical_response_days": 45,
+        "category": "credit_and_data"
+    },
+    {
+        "name": "TransUnion",
+        "dpo_email": "privacy@transunion.com",
+        "deletion_url": "https://www.transunion.com/consumer-privacy",
+        "jurisdiction": "GDPR, CCPA",
+        "typical_response_days": 45,
+        "category": "credit_and_data"
+    },
+    {
+        "name": "Epsilon (Publicis)",
+        "dpo_email": "privacy@epsilon.com",
+        "deletion_url": "https://www.epsilon.com/us/consumer-information",
+        "jurisdiction": "GDPR, CCPA, DPDPA",
+        "typical_response_days": 30,
+        "category": "data_broker"
+    },
+    {
+        "name": "Lotame",
+        "dpo_email": "privacy@lotame.com",
+        "deletion_url": "https://www.lotame.com/about-lotame/privacy/opt-out/",
+        "jurisdiction": "GDPR, CCPA",
+        "typical_response_days": 30,
+        "category": "data_management_platform"
+    },
+    {
+        "name": "Nielsen",
+        "dpo_email": "privacy.department@nielsen.com",
+        "deletion_url": "https://www.nielsen.com/legal/privacy-principles/digital-measurement-privacy-statement/",
+        "jurisdiction": "GDPR, CCPA",
+        "typical_response_days": 30,
+        "category": "data_measurement"
+    },
+    {
+        "name": "comScore",
+        "dpo_email": "privacy@comscore.com",
+        "deletion_url": "https://www.comscore.com/About/Privacy-Policy",
+        "jurisdiction": "GDPR, CCPA",
+        "typical_response_days": 30,
+        "category": "data_measurement"
+    },
+    {
+        "name": "Quantcast",
+        "dpo_email": "privacy@quantcast.com",
+        "deletion_url": "https://www.quantcast.com/opt-out/",
+        "jurisdiction": "GDPR, CCPA",
+        "typical_response_days": 30,
+        "category": "data_broker"
+    },
+    {
+        "name": "Tapad (Experian)",
+        "dpo_email": "privacy@tapad.com",
+        "deletion_url": "https://www.tapad.com/privacy",
+        "jurisdiction": "GDPR, CCPA",
+        "typical_response_days": 30,
+        "category": "cross_device_tracking"
+    },
+    {
+        "name": "Criteo",
+        "dpo_email": "dpo@criteo.com",
+        "deletion_url": "https://www.criteo.com/privacy/",
+        "jurisdiction": "GDPR, CCPA",
+        "typical_response_days": 30,
+        "category": "advertising_retargeting"
+    },
+    {
+        "name": "The Trade Desk",
+        "dpo_email": "privacy@thetradedesk.com",
+        "deletion_url": "https://www.adsrvr.org/",
+        "jurisdiction": "GDPR, CCPA",
+        "typical_response_days": 30,
+        "category": "advertising_dsp"
+    },
+    {
+        "name": "Taboola",
+        "dpo_email": "dpo@taboola.com",
+        "deletion_url": "https://www.taboola.com/policies/privacy-policy",
+        "jurisdiction": "GDPR, CCPA",
+        "typical_response_days": 30,
+        "category": "content_recommendation"
+    },
+    {
+        "name": "Outbrain",
+        "dpo_email": "privacy@outbrain.com",
+        "deletion_url": "https://www.outbrain.com/legal/privacy",
+        "jurisdiction": "GDPR, CCPA",
+        "typical_response_days": 30,
+        "category": "content_recommendation"
+    },
+    {
+        "name": "Truecaller",
+        "dpo_email": "privacy@truecaller.com",
+        "deletion_url": "https://www.truecaller.com/unlisting",
+        "jurisdiction": "GDPR, DPDPA",
+        "typical_response_days": 14,
+        "category": "caller_id_data"
+    },
+    {
+        "name": "Salesforce DMP",
+        "dpo_email": "privacy@salesforce.com",
+        "deletion_url": "https://www.salesforce.com/form/other/privacy-request/",
+        "jurisdiction": "GDPR, CCPA, DPDPA",
+        "typical_response_days": 30,
+        "category": "data_management_platform"
+    },
+    {
+        "name": "Tealium",
+        "dpo_email": "privacy@tealium.com",
+        "deletion_url": "https://tealium.com/privacy/",
+        "jurisdiction": "GDPR, CCPA",
+        "typical_response_days": 30,
+        "category": "customer_data_platform"
+    },
+    {
+        "name": "Segment (Twilio)",
+        "dpo_email": "privacy@twilio.com",
+        "deletion_url": "https://www.twilio.com/legal/privacy",
+        "jurisdiction": "GDPR, CCPA",
+        "typical_response_days": 30,
+        "category": "customer_data_platform"
+    },
+    {
+        "name": "Braze",
+        "dpo_email": "privacy@braze.com",
+        "deletion_url": "https://www.braze.com/company/legal/privacy",
+        "jurisdiction": "GDPR, CCPA",
+        "typical_response_days": 30,
+        "category": "customer_engagement"
+    },
+    {
+        "name": "CleverTap",
+        "dpo_email": "privacy@clevertap.com",
+        "deletion_url": "https://clevertap.com/privacy-policy/",
+        "jurisdiction": "GDPR, DPDPA",
+        "typical_response_days": 30,
+        "category": "customer_engagement"
+    },
+    {
+        "name": "AppsFlyer",
+        "dpo_email": "privacy@appsflyer.com",
+        "deletion_url": "https://www.appsflyer.com/legal/opt-out/",
+        "jurisdiction": "GDPR, CCPA",
+        "typical_response_days": 30,
+        "category": "mobile_attribution"
+    },
+    {
+        "name": "Adjust (AppLovin)",
+        "dpo_email": "privacy@adjust.com",
+        "deletion_url": "https://www.adjust.com/forget-device/",
+        "jurisdiction": "GDPR, CCPA",
+        "typical_response_days": 30,
+        "category": "mobile_attribution"
+    },
+    {
+        "name": "InMobi",
+        "dpo_email": "privacy@inmobi.com",
+        "deletion_url": "https://www.inmobi.com/page/opt-out/",
+        "jurisdiction": "GDPR, DPDPA",
+        "typical_response_days": 30,
+        "category": "mobile_advertising"
+    },
+    {
+        "name": "Flurry (Yahoo)",
+        "dpo_email": "privacy@yahooinc.com",
+        "deletion_url": "https://developer.yahoo.com/flurry/end-user-opt-out/",
+        "jurisdiction": "GDPR, CCPA",
+        "typical_response_days": 30,
+        "category": "mobile_analytics"
+    },
+    {
+        "name": "PubMatic",
+        "dpo_email": "privacy@pubmatic.com",
+        "deletion_url": "https://pubmatic.com/legal/opt-out/",
+        "jurisdiction": "GDPR, CCPA",
+        "typical_response_days": 30,
+        "category": "ad_exchange"
+    },
+    {
+        "name": "Magnite (Rubicon)",
+        "dpo_email": "privacy@magnite.com",
+        "deletion_url": "https://www.magnite.com/legal/consumer-online-profile-and-opt-out/",
+        "jurisdiction": "GDPR, CCPA",
+        "typical_response_days": 30,
+        "category": "ad_exchange"
+    },
+    {
+        "name": "ironSource (Unity)",
+        "dpo_email": "dpo@unity3d.com",
+        "deletion_url": "https://unity.com/legal/privacy-policy",
+        "jurisdiction": "GDPR, CCPA",
+        "typical_response_days": 30,
+        "category": "mobile_advertising"
+    },
+    {
+        "name": "ShareThis",
+        "dpo_email": "privacy@sharethis.com",
+        "deletion_url": "https://sharethis.com/privacy/",
+        "jurisdiction": "GDPR, CCPA",
+        "typical_response_days": 30,
+        "category": "social_data"
+    },
+    {
+        "name": "Spokeo",
+        "dpo_email": "privacy@spokeo.com",
+        "deletion_url": "https://www.spokeo.com/optout",
+        "jurisdiction": "CCPA",
+        "typical_response_days": 30,
+        "category": "people_search"
+    },
+    {
+        "name": "Clearbit (HubSpot)",
+        "dpo_email": "privacy@clearbit.com",
+        "deletion_url": "https://clearbit.com/privacy",
+        "jurisdiction": "GDPR, CCPA",
+        "typical_response_days": 30,
+        "category": "data_enrichment"
+    }
+]

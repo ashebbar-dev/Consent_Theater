@@ -1,0 +1,634 @@
+[
+    {
+        "name": "Aarav M.",
+        "is_ghost": false,
+        "digital_footprint_score": 72,
+        "exposed_to": [
+            "Meta Platforms",
+            "Alphabet Inc.",
+            "ByteDance"
+        ],
+        "exposed_by_apps": [
+            "com.whatsapp",
+            "com.google.android.gm",
+            "com.zhiliaoapp.musically"
+        ]
+    },
+    {
+        "name": "Priya S.",
+        "is_ghost": false,
+        "digital_footprint_score": 65,
+        "exposed_to": [
+            "Meta Platforms",
+            "Alphabet Inc."
+        ],
+        "exposed_by_apps": [
+            "com.instagram.android",
+            "com.google.android.youtube"
+        ]
+    },
+    {
+        "name": "Ravi K.",
+        "is_ghost": true,
+        "digital_footprint_score": 8,
+        "exposed_to": [
+            "Meta Platforms",
+            "Alphabet Inc."
+        ],
+        "exposed_by_apps": [
+            "com.whatsapp",
+            "com.truecaller"
+        ]
+    },
+    {
+        "name": "Sneha R.",
+        "is_ghost": false,
+        "digital_footprint_score": 58,
+        "exposed_to": [
+            "Meta Platforms",
+            "Amazon.com Inc."
+        ],
+        "exposed_by_apps": [
+            "com.facebook.katana",
+            "com.amazon.mShop.android.shopping"
+        ]
+    },
+    {
+        "name": "Karthik V.",
+        "is_ghost": true,
+        "digital_footprint_score": 5,
+        "exposed_to": [
+            "Alphabet Inc."
+        ],
+        "exposed_by_apps": [
+            "com.google.android.gm"
+        ]
+    },
+    {
+        "name": "Ananya P.",
+        "is_ghost": false,
+        "digital_footprint_score": 80,
+        "exposed_to": [
+            "Meta Platforms",
+            "Alphabet Inc.",
+            "Snap Inc."
+        ],
+        "exposed_by_apps": [
+            "com.whatsapp",
+            "com.snapchat.android",
+            "com.instagram.android"
+        ]
+    },
+    {
+        "name": "Deepak L.",
+        "is_ghost": true,
+        "digital_footprint_score": 12,
+        "exposed_to": [
+            "Meta Platforms"
+        ],
+        "exposed_by_apps": [
+            "com.whatsapp"
+        ]
+    },
+    {
+        "name": "Meera G.",
+        "is_ghost": false,
+        "digital_footprint_score": 45,
+        "exposed_to": [
+            "Alphabet Inc.",
+            "Unity Technologies"
+        ],
+        "exposed_by_apps": [
+            "com.google.android.youtube",
+            "com.supercell.clashofclans"
+        ]
+    },
+    {
+        "name": "Vikram T.",
+        "is_ghost": false,
+        "digital_footprint_score": 70,
+        "exposed_to": [
+            "Meta Platforms",
+            "Alphabet Inc.",
+            "X Corp"
+        ],
+        "exposed_by_apps": [
+            "com.facebook.katana",
+            "com.twitter.android",
+            "com.google.android.gm"
+        ]
+    },
+    {
+        "name": "Fatima N.",
+        "is_ghost": true,
+        "digital_footprint_score": 3,
+        "exposed_to": [],
+        "exposed_by_apps": []
+    },
+    {
+        "name": "Arjun D.",
+        "is_ghost": false,
+        "digital_footprint_score": 55,
+        "exposed_to": [
+            "Meta Platforms",
+            "InMobi"
+        ],
+        "exposed_by_apps": [
+            "com.whatsapp",
+            "com.flipkart.android"
+        ]
+    },
+    {
+        "name": "Lakshmi B.",
+        "is_ghost": true,
+        "digital_footprint_score": 10,
+        "exposed_to": [
+            "Alphabet Inc."
+        ],
+        "exposed_by_apps": [
+            "com.google.android.apps.maps"
+        ]
+    },
+    {
+        "name": "Suresh W.",
+        "is_ghost": false,
+        "digital_footprint_score": 62,
+        "exposed_to": [
+            "Meta Platforms",
+            "Alphabet Inc.",
+            "AppLovin"
+        ],
+        "exposed_by_apps": [
+            "com.whatsapp",
+            "com.king.candycrushsaga"
+        ]
+    },
+    {
+        "name": "Kavitha J.",
+        "is_ghost": false,
+        "digital_footprint_score": 48,
+        "exposed_to": [
+            "Alphabet Inc.",
+            "Amazon.com Inc."
+        ],
+        "exposed_by_apps": [
+            "com.google.android.youtube",
+            "com.amazon.avod.thirdpartyclient"
+        ]
+    },
+    {
+        "name": "Rahul C.",
+        "is_ghost": true,
+        "digital_footprint_score": 7,
+        "exposed_to": [
+            "Meta Platforms"
+        ],
+        "exposed_by_apps": [
+            "com.whatsapp"
+        ]
+    },
+    {
+        "name": "Divya H.",
+        "is_ghost": false,
+        "digital_footprint_score": 75,
+        "exposed_to": [
+            "Meta Platforms",
+            "Alphabet Inc.",
+            "ByteDance",
+            "Snap Inc."
+        ],
+        "exposed_by_apps": [
+            "com.instagram.android",
+            "com.zhiliaoapp.musically",
+            "com.snapchat.android"
+        ]
+    },
+    {
+        "name": "Mohan E.",
+        "is_ghost": true,
+        "digital_footprint_score": 6,
+        "exposed_to": [
+            "Alphabet Inc."
+        ],
+        "exposed_by_apps": [
+            "com.google.android.gm"
+        ]
+    },
+    {
+        "name": "Nisha F.",
+        "is_ghost": false,
+        "digital_footprint_score": 68,
+        "exposed_to": [
+            "Meta Platforms",
+            "Alphabet Inc.",
+            "Branch Metrics"
+        ],
+        "exposed_by_apps": [
+            "com.whatsapp",
+            "com.phonepe.app",
+            "com.google.android.apps.maps"
+        ]
+    },
+    {
+        "name": "Aditya I.",
+        "is_ghost": false,
+        "digital_footprint_score": 82,
+        "exposed_to": [
+            "Meta Platforms",
+            "Alphabet Inc.",
+            "ByteDance",
+            "InMobi",
+            "Unity Technologies"
+        ],
+        "exposed_by_apps": [
+            "com.facebook.katana",
+            "com.instagram.android",
+            "com.zhiliaoapp.musically",
+            "com.supercell.clashofclans"
+        ]
+    },
+    {
+        "name": "Pooja A.",
+        "is_ghost": true,
+        "digital_footprint_score": 9,
+        "exposed_to": [
+            "Meta Platforms"
+        ],
+        "exposed_by_apps": [
+            "com.whatsapp"
+        ]
+    },
+    {
+        "name": "Sanjay O.",
+        "is_ghost": false,
+        "digital_footprint_score": 52,
+        "exposed_to": [
+            "Alphabet Inc.",
+            "Microsoft Corporation"
+        ],
+        "exposed_by_apps": [
+            "com.google.android.youtube",
+            "com.linkedin.android"
+        ]
+    },
+    {
+        "name": "Rekha U.",
+        "is_ghost": false,
+        "digital_footprint_score": 60,
+        "exposed_to": [
+            "Meta Platforms",
+            "Alphabet Inc."
+        ],
+        "exposed_by_apps": [
+            "com.whatsapp",
+            "com.instagram.android",
+            "com.google.android.gm"
+        ]
+    },
+    {
+        "name": "Ganesh Y.",
+        "is_ghost": true,
+        "digital_footprint_score": 4,
+        "exposed_to": [],
+        "exposed_by_apps": []
+    },
+    {
+        "name": "Sunita Q.",
+        "is_ghost": false,
+        "digital_footprint_score": 55,
+        "exposed_to": [
+            "Meta Platforms",
+            "AppsFlyer"
+        ],
+        "exposed_by_apps": [
+            "com.whatsapp",
+            "com.makemytrip"
+        ]
+    },
+    {
+        "name": "Amit Z.",
+        "is_ghost": false,
+        "digital_footprint_score": 73,
+        "exposed_to": [
+            "Meta Platforms",
+            "Alphabet Inc.",
+            "X Corp",
+            "AppLovin"
+        ],
+        "exposed_by_apps": [
+            "com.facebook.katana",
+            "com.twitter.android",
+            "com.king.candycrushsaga"
+        ]
+    },
+    {
+        "name": "Bhavna X.",
+        "is_ghost": true,
+        "digital_footprint_score": 11,
+        "exposed_to": [
+            "Meta Platforms"
+        ],
+        "exposed_by_apps": [
+            "com.whatsapp"
+        ]
+    },
+    {
+        "name": "Chirag R.",
+        "is_ghost": false,
+        "digital_footprint_score": 66,
+        "exposed_to": [
+            "Meta Platforms",
+            "Alphabet Inc.",
+            "Adjust"
+        ],
+        "exposed_by_apps": [
+            "com.whatsapp",
+            "com.spotify.music"
+        ]
+    },
+    {
+        "name": "Disha K.",
+        "is_ghost": false,
+        "digital_footprint_score": 71,
+        "exposed_to": [
+            "Meta Platforms",
+            "Alphabet Inc.",
+            "ByteDance"
+        ],
+        "exposed_by_apps": [
+            "com.instagram.android",
+            "com.zhiliaoapp.musically",
+            "com.google.android.youtube"
+        ]
+    },
+    {
+        "name": "Eshan P.",
+        "is_ghost": true,
+        "digital_footprint_score": 2,
+        "exposed_to": [],
+        "exposed_by_apps": []
+    },
+    {
+        "name": "Geeta M.",
+        "is_ghost": false,
+        "digital_footprint_score": 50,
+        "exposed_to": [
+            "Alphabet Inc.",
+            "Amazon.com Inc."
+        ],
+        "exposed_by_apps": [
+            "com.google.android.apps.maps",
+            "com.amazon.mShop.android.shopping"
+        ]
+    },
+    {
+        "name": "Harsh V.",
+        "is_ghost": false,
+        "digital_footprint_score": 64,
+        "exposed_to": [
+            "Meta Platforms",
+            "Alphabet Inc.",
+            "CleverTap"
+        ],
+        "exposed_by_apps": [
+            "com.whatsapp",
+            "com.dream11.fantasy.cricket"
+        ]
+    },
+    {
+        "name": "Isha T.",
+        "is_ghost": true,
+        "digital_footprint_score": 8,
+        "exposed_to": [
+            "Alphabet Inc."
+        ],
+        "exposed_by_apps": [
+            "com.google.android.gm"
+        ]
+    },
+    {
+        "name": "Jay N.",
+        "is_ghost": false,
+        "digital_footprint_score": 76,
+        "exposed_to": [
+            "Meta Platforms",
+            "Alphabet Inc.",
+            "ByteDance",
+            "InMobi"
+        ],
+        "exposed_by_apps": [
+            "com.facebook.katana",
+            "com.zhiliaoapp.musically",
+            "com.flipkart.android"
+        ]
+    },
+    {
+        "name": "Komal S.",
+        "is_ghost": false,
+        "digital_footprint_score": 42,
+        "exposed_to": [
+            "Meta Platforms"
+        ],
+        "exposed_by_apps": [
+            "com.whatsapp"
+        ]
+    },
+    {
+        "name": "Lalit G.",
+        "is_ghost": false,
+        "digital_footprint_score": 58,
+        "exposed_to": [
+            "Alphabet Inc.",
+            "Microsoft Corporation",
+            "AppsFlyer"
+        ],
+        "exposed_by_apps": [
+            "com.google.android.gm",
+            "com.linkedin.android",
+            "com.makemytrip"
+        ]
+    },
+    {
+        "name": "Manju D.",
+        "is_ghost": true,
+        "digital_footprint_score": 6,
+        "exposed_to": [
+            "Meta Platforms"
+        ],
+        "exposed_by_apps": [
+            "com.whatsapp"
+        ]
+    },
+    {
+        "name": "Naveen B.",
+        "is_ghost": false,
+        "digital_footprint_score": 69,
+        "exposed_to": [
+            "Meta Platforms",
+            "Alphabet Inc.",
+            "Snap Inc.",
+            "Branch Metrics"
+        ],
+        "exposed_by_apps": [
+            "com.whatsapp",
+            "com.snapchat.android",
+            "com.phonepe.app"
+        ]
+    },
+    {
+        "name": "Omkar H.",
+        "is_ghost": false,
+        "digital_footprint_score": 54,
+        "exposed_to": [
+            "Alphabet Inc.",
+            "Unity Technologies"
+        ],
+        "exposed_by_apps": [
+            "com.google.android.youtube",
+            "com.supercell.clashofclans"
+        ]
+    },
+    {
+        "name": "Pallavi W.",
+        "is_ghost": false,
+        "digital_footprint_score": 61,
+        "exposed_to": [
+            "Meta Platforms",
+            "Alphabet Inc.",
+            "Amazon.com Inc."
+        ],
+        "exposed_by_apps": [
+            "com.instagram.android",
+            "com.amazon.mShop.android.shopping",
+            "com.google.android.gm"
+        ]
+    },
+    {
+        "name": "Rohit J.",
+        "is_ghost": false,
+        "digital_footprint_score": 78,
+        "exposed_to": [
+            "Meta Platforms",
+            "Alphabet Inc.",
+            "ByteDance",
+            "X Corp",
+            "Criteo"
+        ],
+        "exposed_by_apps": [
+            "com.facebook.katana",
+            "com.twitter.android",
+            "com.zhiliaoapp.musically",
+            "com.flipkart.android"
+        ]
+    },
+    {
+        "name": "Shalini E.",
+        "is_ghost": true,
+        "digital_footprint_score": 5,
+        "exposed_to": [],
+        "exposed_by_apps": []
+    },
+    {
+        "name": "Tanmay F.",
+        "is_ghost": false,
+        "digital_footprint_score": 67,
+        "exposed_to": [
+            "Meta Platforms",
+            "Alphabet Inc.",
+            "Adjust"
+        ],
+        "exposed_by_apps": [
+            "com.whatsapp",
+            "com.spotify.music",
+            "com.google.android.youtube"
+        ]
+    },
+    {
+        "name": "Uma C.",
+        "is_ghost": false,
+        "digital_footprint_score": 44,
+        "exposed_to": [
+            "Alphabet Inc."
+        ],
+        "exposed_by_apps": [
+            "com.google.android.apps.maps",
+            "com.google.android.gm"
+        ]
+    },
+    {
+        "name": "Varun L.",
+        "is_ghost": false,
+        "digital_footprint_score": 85,
+        "exposed_to": [
+            "Meta Platforms",
+            "Alphabet Inc.",
+            "ByteDance",
+            "InMobi",
+            "Unity Technologies",
+            "AppLovin"
+        ],
+        "exposed_by_apps": [
+            "com.facebook.katana",
+            "com.instagram.android",
+            "com.zhiliaoapp.musically",
+            "com.supercell.clashofclans",
+            "com.king.candycrushsaga"
+        ]
+    },
+    {
+        "name": "Wahida A.",
+        "is_ghost": false,
+        "digital_footprint_score": 53,
+        "exposed_to": [
+            "Meta Platforms",
+            "CleverTap"
+        ],
+        "exposed_by_apps": [
+            "com.whatsapp",
+            "com.dream11.fantasy.cricket"
+        ]
+    },
+    {
+        "name": "Xavier I.",
+        "is_ghost": false,
+        "digital_footprint_score": 47,
+        "exposed_to": [
+            "Alphabet Inc.",
+            "Microsoft Corporation"
+        ],
+        "exposed_by_apps": [
+            "com.google.android.youtube",
+            "com.linkedin.android"
+        ]
+    },
+    {
+        "name": "Yashika O.",
+        "is_ghost": false,
+        "digital_footprint_score": 63,
+        "exposed_to": [
+            "Meta Platforms",
+            "Alphabet Inc.",
+            "Snap Inc."
+        ],
+        "exposed_by_apps": [
+            "com.whatsapp",
+            "com.snapchat.android",
+            "com.google.android.gm"
+        ]
+    },
+    {
+        "name": "Zara U.",
+        "is_ghost": false,
+        "digital_footprint_score": 56,
+        "exposed_to": [
+            "Meta Platforms",
+            "Alphabet Inc.",
+            "Amazon.com Inc."
+        ],
+        "exposed_by_apps": [
+            "com.instagram.android",
+            "com.amazon.avod.thirdpartyclient",
+            "com.google.android.youtube"
+        ]
+    }
+]

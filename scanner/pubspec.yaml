@@ -1,0 +1,53 @@
+name: scanner
+description: "Consent Theater - Privacy Scanner"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+  # HTTP client for Exodus API
+  dio: ^5.4.0
+
+  # Local caching for API responses
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+
+  # File system paths
+  path_provider: ^2.1.2
+
+  # Share JSON scan results
+  share_plus: ^7.2.1
+
+  # Runtime permissions
+  permission_handler: ^11.3.0
+
+  # UUID generation for scan IDs
+  uuid: ^4.5.0
+
+  # QR code generation (for transfer screen)
+  qr_flutter: ^4.1.0
+
+  # File picker (for importing PCAPdroid CSV)
+  file_picker: ^8.0.0
+
+  # Launch external apps (PCAPdroid, Play Store)
+  url_launcher: ^6.2.0
+
+  # CSV parsing (for PCAPdroid exports)
+  csv: ^6.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
